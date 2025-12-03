@@ -1,5 +1,6 @@
 👋 Hi, I’m Cristian
 🚀 Cloud Computing Graduate | 42 London Student
+
 🎯 Building systems, bots & products that actually work.
 🔥 About Me
 
